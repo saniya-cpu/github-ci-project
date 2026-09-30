@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container {
+    background: white;
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
